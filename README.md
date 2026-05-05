@@ -7,3 +7,5 @@
 ### Vi har skissat hur våran hemsida kan se ut, vi har också börjat med att testa hur hemsidan kan se ut med hjälp av codepen.
 ## vecka 16
 ### Vi har börjat koda våran hemsida vilket visar sig att vara lite problematiskt ibland :(
+## vecka 19 
+### Börjar bli klar med store sidan men det är lite jobbigt ibland som vanligt >:(
