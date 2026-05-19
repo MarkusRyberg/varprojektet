@@ -9,3 +9,7 @@
 ### Vi har börjat koda våran hemsida vilket visar sig att vara lite problematiskt ibland :(
 ## vecka 19 
 ### Börjar bli klar med store sidan men det är lite jobbigt ibland som vanligt >:(
+## vecka 20
+### vi gjorde lite olika tester så som att kolla ifall färgerna gick igenom whocanuse.com tester.
+## vecka 21
+### vi har fin skysterat hemsidan, bytt bilder och fixat nya knappar
